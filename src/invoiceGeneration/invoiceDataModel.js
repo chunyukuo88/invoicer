@@ -14,4 +14,4 @@ const invoiceData = {
     }
 }
 
-module.exports = invoiceData;
+export default invoiceData;
